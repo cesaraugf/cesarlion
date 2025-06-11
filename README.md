@@ -43,17 +43,15 @@ O agregador de dados em Excel oferece as seguintes funcionalidades principais:
 ## Estrutura do Projeto
 
 O repositório contém os seguintes arquivos e diretórios:
-.
-├── lion-app.xlsx             # Arquivo principal do projeto em Excel (planilha com o agregador de dados)
-├── lion-app.xlsx - TITULAR.csv    # Exemplo/Exportação da aba 'TITULAR'
-├── lion-app.xlsx - INFORMES.csv   # Exemplo/Exportação da aba 'INFORMES'
-├── lion-app.xlsx - NOTAS.csv      # Exemplo/Exportação da aba 'NOTAS'
-├── lion-app.xlsx - TABELAS.csv    # Exemplo/Exportação da aba 'TABELAS'
-├── images/                   # (Opcional) Pasta para capturas de tela e outros recursos visuais
+
+├── lion-app.xlsx             
+├── lion-app.xlsx - TITULAR.csv    
+├── lion-app.xlsx - INFORMES.csv   
+├── lion-app.xlsx - NOTAS.csv     
+├── lion-app.xlsx - TABELAS.csv    
+├── images/                   
 │   └── screenshot_01.png
-│   └── ...
-└── README.md                 # Este arquivo README
-*Nota: Os arquivos `.csv` são inclusões para fins de demonstração da estrutura do Excel, caso o arquivo `.xlsx` não seja renderizado diretamente no GitHub. O arquivo principal do projeto é `lion-app.xlsx`.*
+└── README.md               
 
 ## Como Utilizar
 
