@@ -50,7 +50,8 @@ O repositório contém os seguintes arquivos e diretórios:
 ├── lion-app.xlsx - NOTAS.csv     
 ├── lion-app.xlsx - TABELAS.csv    
 ├── images/                   
-│   └── screenshot_01.png
+│   └── cesar-lion.png
+
 └── README.md               
 
 ## Como Utilizar
